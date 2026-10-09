@@ -12,7 +12,6 @@ export default class App extends Component {
 				meta={[
                     {name: "description", content: "Sonja Engelke. Teacher."},
                 ]}
-				script={[{src: 'https://cdn.polyfill.io/v2/polyfill.min.js'}]}
 				link={[{rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Josefin+Sans|Open+Sans'},
 						{rel: 'stylesheet', href: 'https://unpkg.com/nanoreset/nanoreset.min.css'}
 				]}
